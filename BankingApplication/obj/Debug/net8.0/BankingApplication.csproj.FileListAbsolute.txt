@@ -1,0 +1,15 @@
+D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
+D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingDomain.dll
+D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingDomain.pdb
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.AssemblyReference.cache
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingA.51032FB7.Up2Date
