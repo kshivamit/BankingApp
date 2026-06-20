@@ -13,3 +13,4 @@ D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingDomain.dl
 D:\MajorProjects\BankingApp\BankingApplication\bin\Debug\net8.0\BankingDomain.pdb
 D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.AssemblyReference.cache
 D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingA.51032FB7.Up2Date
+D:\MajorProjects\BankingApp\BankingApplication\obj\Debug\net8.0\BankingApplication.sourcelink.json

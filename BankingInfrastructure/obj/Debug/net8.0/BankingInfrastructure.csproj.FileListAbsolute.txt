@@ -17,3 +17,4 @@ D:\MajorProjects\BankingApp\BankingInfrastructure\obj\Debug\net8.0\BankingI.238D
 D:\MajorProjects\BankingApp\BankingInfrastructure\obj\Debug\net8.0\BankingInfrastructure.genruntimeconfig.cache
 D:\MajorProjects\BankingApp\BankingInfrastructure\bin\Debug\net8.0\BankingApplication.dll
 D:\MajorProjects\BankingApp\BankingInfrastructure\bin\Debug\net8.0\BankingApplication.pdb
+D:\MajorProjects\BankingApp\BankingInfrastructure\obj\Debug\net8.0\BankingInfrastructure.sourcelink.json
