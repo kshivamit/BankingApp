@@ -84,3 +84,4 @@ D:\MajorProjects\BankingApp\BankingAPI\bin\Debug\net8.0\BankingInfrastructure.dl
 D:\MajorProjects\BankingApp\BankingAPI\bin\Debug\net8.0\BankingApplication.pdb
 D:\MajorProjects\BankingApp\BankingAPI\bin\Debug\net8.0\BankingInfrastructure.pdb
 D:\MajorProjects\BankingApp\BankingAPI\bin\Debug\net8.0\BankingDomain.pdb
+D:\MajorProjects\BankingApp\BankingAPI\obj\Debug\net8.0\BankingAPI.sourcelink.json
